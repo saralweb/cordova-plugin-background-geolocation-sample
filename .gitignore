@@ -1,0 +1,10 @@
+/*
+
+!/res
+!/scripts
+!/www
+!.gitignore
+!*.md
+!config.xml
+/**/.DS_Store
+*.swp
